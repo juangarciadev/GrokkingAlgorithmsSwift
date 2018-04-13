@@ -7,5 +7,6 @@
         <page name='Recursion'/>
         <page name='Divide &amp; Conquer'/>
         <page name='Quicksort'/>
+        <page name='Breadth-first Search'/>
     </pages>
 </playground>
