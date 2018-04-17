@@ -40,4 +40,4 @@ func personIsSeller(name: String) -> Bool {
     return name.last == "m"
 }
 
-print(search(name: "thom"))
+print(search(name: "you"))

@@ -8,5 +8,6 @@
         <page name='Divide &amp; Conquer'/>
         <page name='Quicksort'/>
         <page name='Breadth-first Search'/>
+        <page name='Dijkstra’s algorithm'/>
     </pages>
 </playground>
