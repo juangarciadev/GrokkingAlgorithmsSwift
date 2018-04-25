@@ -9,5 +9,6 @@
         <page name='Quicksort'/>
         <page name='Breadth-first Search'/>
         <page name='Dijkstra’s algorithm'/>
+        <page name='Greedy algorithms'/>
     </pages>
 </playground>
